@@ -37,7 +37,7 @@ startActivity(intent)
 
 
 # Intencje niejawne *implicit intent*
-Jeżli chcemy wykonać okreśłoną czynność, kecz nie interesuje nas, która aktywność to zrobi, to możemy utworzyć intencję niejawną. W takim przypadku określamy akcję, którą chcemy wykonać , pozostawiając Androidowi możliwość doboru odpowiednich aktywności
+Jeżli chcemy wykonać okreśłoną czynność, lecz nie interesuje nas, która aktywność to zrobi, to możemy utworzyć intencję niejawną. W takim przypadku określamy akcję, którą chcemy wykonać , pozostawiając Androidowi możliwość doboru odpowiednich aktywności
 
 ### `val intent = Intent(action)`
 `action` określa typ akcji, którą aktywność ma wykonać
