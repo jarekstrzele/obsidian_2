@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_MOBILE/składnia operowania na klasach.md",
+                "file": "RUST/Programowanie w języku Rust/3. Powszechne koncepcje programowania.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "składnia operowania na klasach"
-            }
-          },
-          {
-            "id": "c1e75d72510c3563",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ubuntu.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ubuntu"
+              "title": "3. Powszechne koncepcje programowania"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,18 +139,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md"
+                "file": "RUST/Programowanie w języku Rust/3. Powszechne koncepcje programowania.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 3 Podstawy tworzenia aplikacji"
+              "title": "Outline of 3. Powszechne koncepcje programowania"
+            }
+          },
+          {
+            "id": "341250fa2e19bb1c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,10 +173,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c1e75d72510c3563",
+  "active": "3882cc75b2e2bf83",
   "lastOpenFiles": [
+    "RUST/Programowanie w języku Rust/2. Programowanie gry w zgadywanie.md",
+    "RUST/Programowanie w języku Rust/1. Pierwsze kroki.md",
+    "RUST/Programowanie w języku Rust/_ spis.md",
+    "RUST/Programowanie w języku Rust/3. Powszechne koncepcje programowania.md",
     "_MOBILE/składnia operowania na klasach.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas",
     "Ubuntu.md",
+    "RUST/Programowanie w języku Rust",
+    "RUST",
     "_MOBILE/Spinner.md",
     "_MOBILE/uruchamiania na prawdziwym urządzeniu.md",
     "_MOBILE/Funkcje lambda.md",
@@ -202,10 +206,6 @@
     "_MOBILE/Rusz Głową Android. Programowanie aplikacji/9.2. Fragment list.md",
     "_MOBILE/Rusz Głową Android. Programowanie aplikacji/9. Fragmenty.md",
     "_MOBILE/Rusz Głową Android. Programowanie aplikacji/8.1.2. Dostawcy akcji.md",
-    "_MOBILE/Rusz Głową Android. Programowanie aplikacji/8.1.1. Nawigacja w górę.md",
-    "_MOBILE/Rusz Głową Android. Programowanie aplikacji/4.2. Druga wersja Stopera - aplikacja zniszczona i utworzona.md",
-    "_MOBILE/Rusz Głową Android. Programowanie aplikacji/8.1. Toolbar i Menu.md",
-    "_MOBILE/Rusz Głową Android. Programowanie aplikacji/8. Biblioteki wsparcia i paski aplikacji.md",
     "_MOBILE/the complete Android Kotlin/13 Intent and Life Cycle",
     "_MOBILE/the complete Android Kotlin/12 Lists and Views",
     "_MOBILE/the complete Android Kotlin/10 Android Components",
@@ -213,9 +213,6 @@
     "_MOBILE/the complete Android 14 and Kotlin/Android 12 XML",
     "_MOBILE/the complete Android 14 and Kotlin",
     "_MOBILE/Kurs Android od podstaw",
-    "_MOBILE/Android Kurs Tworzenia APlikacji",
-    "Kotlin/Kotlin bez tajemnic",
-    "Untitled 1.canvas",
-    "Untitled.canvas"
+    "_MOBILE/Android Kurs Tworzenia APlikacji"
   ]
 }
