@@ -6,10 +6,25 @@ Helion 2024
 ---------
 
 [[1. Pierwsze kroki]]
-
 [[2. Programowanie gry w zgadywanie]]
-
 [[3. Powszechne koncepcje programowania]]
+[[4. Własność]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
