@@ -2,11 +2,11 @@
 
 ---------
 OLDER (Android 12)
-[[2 Getting ready with Android Studio]]
-[[3 Kotlin fundamentals]]
-[[4. OOP Kotlin]]
+[[20 Getting ready with Android Studio]]
+[[21 Kotlin fundamentals]]
+[[22 OOP Kotlin]]
 
-[[6 Age in Minute Calculator]]
+[[23 Age in Minute Calculator]]
 
 ---------------
 Kotlin basics:

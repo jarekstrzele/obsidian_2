@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RUST/Programowanie w języku Rust/5. Wykorzystanie struktur do organizowania powiązanych ze sobą danych.md",
+                "file": "_MOBILE/the complete Android Kotlin/14 SharedPreferences Class.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Wykorzystanie struktur do organizowania powiązanych ze sobą danych"
+              "title": "14 SharedPreferences Class"
+            }
+          },
+          {
+            "id": "1db90f34970d558d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Samba.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Samba"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +55,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -52,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:\"_MOBILE/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 498.5
   },
   "right": {
     "id": "1ef13512cc3c7b15",
@@ -112,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RUST/Programowanie w języku Rust/5. Wykorzystanie struktur do organizowania powiązanych ze sobą danych.md",
+                "file": "Kotlin/Scalable ANdroid Applications in Kotlin/1 Introduction to Kotlin for Android.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 5. Wykorzystanie struktur do organizowania powiązanych ze sobą danych"
+              "title": "Outgoing links from 1 Introduction to Kotlin for Android"
             }
           },
           {
@@ -139,10 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RUST/Programowanie w języku Rust/5. Wykorzystanie struktur do organizowania powiązanych ze sobą danych.md"
+                "file": "Samba.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 5. Wykorzystanie struktur do organizowania powiązanych ze sobą danych"
+              "title": "Outline of Samba"
             }
           },
           {
@@ -156,11 +175,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,44 +193,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "341250fa2e19bb1c",
+  "active": "1db90f34970d558d",
   "lastOpenFiles": [
-    "RUST/Programowanie w języku Rust/4. Własność.md",
-    "RUST/Programowanie w języku Rust/5. Wykorzystanie struktur do organizowania powiązanych ze sobą danych.md",
-    "Pasted image 20250128100732.png",
-    "Kotlin/Scalable ANdroid Applications in Kotlin/1 Introduction to Kotlin for Android.md",
-    "Kotlin/Scalable ANdroid Applications in Kotlin/_ 0 Spis.md",
+    "_MOBILE/the complete Android Kotlin/14 SharedPreferences Class.md",
+    "Samba.md",
+    "_MOBILE/the complete Android 14 and Kotlin/Android 12 XML/26 Drawing APP.md",
+    "_MOBILE/the complete Android 14 and Kotlin/Android 12 XML/20 Getting ready with Android Studio.md",
+    "_MOBILE/the complete Android 14 and Kotlin/Android 12 XML/21 Kotlin fundamentals.md",
+    "_MOBILE/the complete Android 14 and Kotlin/Android 12 XML/22 OOP Kotlin.md",
+    "_MOBILE/the complete Android 14 and Kotlin/Android 12 XML/23 Age in Minute Calculator.md",
+    "_MOBILE/the complete Android 14 and Kotlin/Android 12 XML/24 Calculator.md",
+    "_MOBILE/the complete Android 14 and Kotlin/Android 12 XML/25 Quiz App.md",
+    "_MOBILE/the complete Android 14 and Kotlin/7 Shopping list app.md",
+    "_MOBILE/the complete Android 14 and Kotlin/6.1. Some help CaptainGame.md",
+    "_MOBILE/the complete Android 14 and Kotlin/6.0. The code Unit Converter app.md",
+    "_MOBILE/the complete Android 14 and Kotlin/6. State - Unit Converter Part 2.md",
+    "_MOBILE/the complete Android 14 and Kotlin/5.1. Converter App.md",
+    "_MOBILE/the complete Android 14 and Kotlin/5. First Android App - Unit Converter Part 1.md",
+    "_MOBILE/the complete Android 14 and Kotlin/4. Lists and Objects.md",
+    "_MOBILE/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md",
+    "_MOBILE/the complete Android 14 and Kotlin/2. Rock, Paper, Scissors.md",
+    "_MOBILE/the complete Android 14 and Kotlin/_ the complete Android 14.md",
+    "Kotlin/Wyrażenia regularne.md",
+    "Kotlin/Fundamenty Kotlina.md",
     "Kotlin/Scalable ANdroid Applications in Kotlin/3. Feature-Oriented Development in Android.md",
     "Kotlin/Scalable ANdroid Applications in Kotlin/2 Breaking Down App Code with Separation of Concerns.md",
+    "Kotlin/Scalable ANdroid Applications in Kotlin/1 Introduction to Kotlin for Android.md",
+    "Kotlin/Scalable ANdroid Applications in Kotlin/_ 0 Spis.md",
+    "Kotlin/Kotlin bez tajemnic/3.3. View Binding.md",
+    "Pasted image 20250128100732.png",
     "Kotlin/Scalable ANdroid Applications in Kotlin",
     "Pasted image 20250126183649.png",
     "Pasted image 20250126182200.png",
     "Pasted image 20250126180626.png",
-    "RUST/Programowanie w języku Rust/_ spis.md",
-    "RUST/Programowanie w języku Rust/3. Powszechne koncepcje programowania.md",
-    "toc.md",
-    "RUST/Programowanie w języku Rust/2. Programowanie gry w zgadywanie.md",
-    "RUST/Programowanie w języku Rust/1. Pierwsze kroki.md",
-    "_MOBILE/składnia operowania na klasach.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
-    "Ubuntu.md",
     "RUST/Programowanie w języku Rust",
     "RUST",
-    "_MOBILE/Spinner.md",
-    "_MOBILE/uruchamiania na prawdziwym urządzeniu.md",
-    "_MOBILE/Funkcje lambda.md",
-    "_MOBILE/Rusz Głową Android. Programowanie aplikacji/4.1. Pierwsza wersja stopera.md",
-    "_MOBILE/Rusz Głową Android. Programowanie aplikacji/4.0. Przewodnik po metodach cyklu życia.md",
-    "_MOBILE/Rusz Głową Android. Programowanie aplikacji/4. Cykl życia aktywnośći.md",
-    "_MOBILE/Rusz Głową Android. Programowanie aplikacji/3 Wiele aktywności i intencji.md",
-    "_MOBILE/Rusz Głową Android. Programowanie aplikacji/2. Tworzenie interaktywnych aplikacji.md",
-    "_MOBILE/Rusz Głową Android. Programowanie aplikacji/1. Skok na głęboką wodę.md",
-    "_MOBILE/Rusz Głową Android. Programowanie aplikacji/_ Rusz Głową Android. Programowanie aplikacji.md",
-    "_MOBILE/Rusz Głową Android. Programowanie aplikacji/companion object.md",
-    "_MOBILE/Rusz Głową Android. Programowanie aplikacji/Intencja.md",
-    "_MOBILE/Rusz Głową Android. Programowanie aplikacji/AndroidManifest.md",
     "_MOBILE/the complete Android Kotlin/13 Intent and Life Cycle",
     "_MOBILE/the complete Android Kotlin/12 Lists and Views",
     "_MOBILE/the complete Android Kotlin/10 Android Components",

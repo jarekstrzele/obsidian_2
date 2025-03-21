@@ -1,5 +1,5 @@
-[[3 Kotlin fundamentals]]
-[[4. OOP Kotlin]]
+[[21 Kotlin fundamentals]]
+[[22 OOP Kotlin]]
 
 
 

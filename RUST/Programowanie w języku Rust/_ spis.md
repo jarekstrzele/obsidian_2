@@ -9,7 +9,7 @@ Helion 2024
 [[2. Programowanie gry w zgadywanie]]
 [[3. Powszechne koncepcje programowania]]
 [[4. Własność]]
-
+[[5. Wykorzystanie struktur do organizowania powiązanych ze sobą danych]]
 
 
 
