@@ -35,3 +35,11 @@ dodaj na końcu pliku
 sudo systemctl restart smbd
 
 ```
+
+
+
+# Grafincza nakładka
+`sudo apt install system-config-samba`
+
+
+
