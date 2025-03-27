@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Samba.md",
+                "file": "Haskell/1. Pierwszy projekt Hello World.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Samba"
+              "title": "1. Pierwszy projekt Hello World"
             }
           }
         ],
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 498.5
+    "width": 239.5
   },
   "right": {
     "id": "1ef13512cc3c7b15",
@@ -195,32 +195,35 @@
   },
   "active": "1db90f34970d558d",
   "lastOpenFiles": [
-    "_MOBILE/the complete Android Kotlin/14 SharedPreferences Class.md",
+    "Haskell/_ 0 Haskell GPT.md",
+    "Haskell/1. Pierwszy projekt Hello World.md",
+    "algorytmy/algorytmy.ilustrowany przewodnik/4.  Szybkie sortowanie.md",
+    "Haskell",
+    "Untitled.md",
+    "Untitled 1.md",
+    "algorytmy/algorytmy.ilustrowany przewodnik/3. Rekurencja.md",
+    "algorytmy/algorytmy.ilustrowany przewodnik/2. Sortowanie przez wybieranie.md",
+    "algorytmy/algorytmy.ilustrowany przewodnik/1 wprowadzenie.md",
+    "algorytmy/algorytmy.ilustrowany przewodnik/_ 0 start.md",
+    "_DataBase/MongoDB/MongoDB - The Complete 2025/2 Basic and CRUD.md",
+    "algorytmy/algorytmy.ilustrowany przewodnik",
+    "algorytmy",
+    "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md",
+    "_DataBase/MongoDB/MongoDB - The Complete 2025/_ MongoDB Complete.md",
+    "_DataBase/MongoDB/Master MongoDB/2 - GUI Tools for MongoDB Management.md",
+    "_DataBase/MongoDB/Master MongoDB/1 - Into MongoDB Cloud.md",
+    "_DataBase/MongoDB/Master MongoDB/_ 0 Start.md",
+    "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md",
+    "_DataBase/MongoDB/Introduction to the MongoDB/4 - Data Formats in MongoDb.md",
+    "_DataBase/MongoDB/Introduction to the MongoDB/_ Intro to MongoDB.md",
     "Samba.md",
+    "_MOBILE/the complete Android Kotlin/14 SharedPreferences Class.md",
     "_MOBILE/the complete Android 14 and Kotlin/Android 12 XML/26 Drawing APP.md",
     "_MOBILE/the complete Android 14 and Kotlin/Android 12 XML/20 Getting ready with Android Studio.md",
     "_MOBILE/the complete Android 14 and Kotlin/Android 12 XML/21 Kotlin fundamentals.md",
     "_MOBILE/the complete Android 14 and Kotlin/Android 12 XML/22 OOP Kotlin.md",
     "_MOBILE/the complete Android 14 and Kotlin/Android 12 XML/23 Age in Minute Calculator.md",
     "_MOBILE/the complete Android 14 and Kotlin/Android 12 XML/24 Calculator.md",
-    "_MOBILE/the complete Android 14 and Kotlin/Android 12 XML/25 Quiz App.md",
-    "_MOBILE/the complete Android 14 and Kotlin/7 Shopping list app.md",
-    "_MOBILE/the complete Android 14 and Kotlin/6.1. Some help CaptainGame.md",
-    "_MOBILE/the complete Android 14 and Kotlin/6.0. The code Unit Converter app.md",
-    "_MOBILE/the complete Android 14 and Kotlin/6. State - Unit Converter Part 2.md",
-    "_MOBILE/the complete Android 14 and Kotlin/5.1. Converter App.md",
-    "_MOBILE/the complete Android 14 and Kotlin/5. First Android App - Unit Converter Part 1.md",
-    "_MOBILE/the complete Android 14 and Kotlin/4. Lists and Objects.md",
-    "_MOBILE/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md",
-    "_MOBILE/the complete Android 14 and Kotlin/2. Rock, Paper, Scissors.md",
-    "_MOBILE/the complete Android 14 and Kotlin/_ the complete Android 14.md",
-    "Kotlin/Wyrażenia regularne.md",
-    "Kotlin/Fundamenty Kotlina.md",
-    "Kotlin/Scalable ANdroid Applications in Kotlin/3. Feature-Oriented Development in Android.md",
-    "Kotlin/Scalable ANdroid Applications in Kotlin/2 Breaking Down App Code with Separation of Concerns.md",
-    "Kotlin/Scalable ANdroid Applications in Kotlin/1 Introduction to Kotlin for Android.md",
-    "Kotlin/Scalable ANdroid Applications in Kotlin/_ 0 Spis.md",
-    "Kotlin/Kotlin bez tajemnic/3.3. View Binding.md",
     "Pasted image 20250128100732.png",
     "Kotlin/Scalable ANdroid Applications in Kotlin",
     "Pasted image 20250126183649.png",
@@ -234,9 +237,6 @@
     "_MOBILE/the complete Android Kotlin/13 Intent and Life Cycle",
     "_MOBILE/the complete Android Kotlin/12 Lists and Views",
     "_MOBILE/the complete Android Kotlin/10 Android Components",
-    "_MOBILE/the complete Android Kotlin",
-    "_MOBILE/the complete Android 14 and Kotlin/Android 12 XML",
-    "_MOBILE/the complete Android 14 and Kotlin",
-    "_MOBILE/Kurs Android od podstaw"
+    "_MOBILE/the complete Android Kotlin"
   ]
 }

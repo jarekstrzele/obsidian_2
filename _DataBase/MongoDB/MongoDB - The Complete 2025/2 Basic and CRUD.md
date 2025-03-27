@@ -76,14 +76,15 @@ first matching
 `mytest> db.flightData.updateOne({distance:12000}, {$set: {marker: "delete"}})`
 
 
-
-
-
 ## delete
 ##### `deleteOne(filter, options)`
 ##### `deleteMany(filter, options)`
 
 `mytest> db.flightData.deleteOne({departure: "TXL"})`
+
+
+
+
 
 
 
