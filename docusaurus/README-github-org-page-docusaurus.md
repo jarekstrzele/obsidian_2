@@ -114,4 +114,4 @@ https://twoja-organizacja.github.io/
 
 ---
 
-🎓 Powodzenia! Masz teraz profesjonalną stronę główną swojej organizacji zbudowaną na Docusaurusie 🚀
+

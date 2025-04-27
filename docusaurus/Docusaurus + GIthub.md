@@ -57,7 +57,28 @@ Dodaj pole `homepage` i scriptd
 	"start": "docusaurus start" }
 ```
 
+
+działający z `mobile`
+```json
+
+"scripts": {
+    "docusaurus": "docusaurus",
+    "start": "docusaurus start",
+    "build": "docusaurus build",
+    "swizzle": "docusaurus swizzle",
+    "deploy": "USE_SSH=true DEPLOYMENT_BRANCH=gh-pages GIT_USER=jarekstrzele docusaurus deploy",
+    "clear": "docusaurus clear",
+    "serve": "docusaurus serve",
+    "write-translations": "docusaurus write-translations",
+    "write-heading-ids": "docusaurus write-heading-ids",
+    "typecheck": "tsc"
+  },
+
+
 ---
+```
+
+
 
 ## 🔐 5. Skonfiguruj `git` z repozytorium GitHub
 
@@ -80,7 +101,11 @@ Zamień `twojanazwa` na Twoją nazwę użytkownika lub organizacji.
 
 W terminalu:
 
-`git add . git commit -m "Initial commit" git push -u origin master`
+```bash
+git add . 
+git commit -m "Initial commit" 
+git push -u origin master`
+```
 
 Potem:
 

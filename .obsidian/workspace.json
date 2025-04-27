@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_MOBILE/the complete Android Kotlin/14 SharedPreferences Class.md",
+                "file": "AI/1.Sztuczna inteligencja i uczenie maszynowe dla programistów/I tworzenie modeli/1. Wprowadzenie do biblioteki TensorFlow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14 SharedPreferences Class"
+              "title": "1. Wprowadzenie do biblioteki TensorFlow"
             }
           },
           {
@@ -34,37 +34,8 @@
               "icon": "lucide-file",
               "title": "1. Pierwszy projekt Hello World"
             }
-          },
-          {
-            "id": "128736a2054a90de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docusaurus/README-github-project-page-docusaurus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README-github-project-page-docusaurus"
-            }
-          },
-          {
-            "id": "e18222cf03ba3307",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux Mint.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Linux Mint"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,8 +169,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -221,50 +192,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e18222cf03ba3307",
+  "active": "3882cc75b2e2bf83",
   "lastOpenFiles": [
+    "TenserFlow.png",
+    "AI/1.Sztuczna inteligencja i uczenie maszynowe dla programistów/I tworzenie modeli/1. Wprowadzenie do biblioteki TensorFlow.md",
+    "_MOBILE/the complete Android Kotlin/14 SharedPreferences Class.md",
+    "Haskell/1. Pierwszy projekt Hello World.md",
     "docusaurus/README-github-project-page-docusaurus.md",
-    "Linux Mint.md",
-    "docusaurus/Docusaurus + GIthub.md",
+    "Ubuntu.md",
+    "gromadzenie_i_etykietowanie_danych.png",
+    "Uczenie_maszynowe.png",
+    "AI/kolejność uczenia się ML.md",
+    "Programowanie_tradycyjne.md",
+    "Programowanie_tradycyjne.png",
+    "AI/1.Sztuczna inteligencja i uczenie maszynowe dla programistów/_ 0 Intro.md",
+    "AI/1.Sztuczna inteligencja i uczenie maszynowe dla programistów/II używanie modeli",
+    "AI/1.Sztuczna inteligencja i uczenie maszynowe dla programistów/I tworzenie modeli",
+    "Moduły.md",
+    "AI/z o4-mini-high",
+    "AI/3. Python.Uczenie maszynowe w przykładach",
+    "AI/2. Ucznie maszynowe z użyciem",
+    "AI/1.Sztuczna inteligencja i uczenie maszynowe dla programistów",
+    "AI/Wnioskowanie - związki przyczynowe w Pythonie",
+    "AI",
     "docusaurus/README-github-org-page-docusaurus.md",
+    "docusaurus/Docusaurus + GIthub.md",
+    "Samba.md",
+    "Linux Mint.md",
+    "Haskell/_ 0 Haskell GPT.md",
+    "Kotlin/Fundamenty Kotlina.md",
+    "Kotlin/Scalable ANdroid Applications in Kotlin/2 Breaking Down App Code with Separation of Concerns.md",
+    "Kotlin/Scalable ANdroid Applications in Kotlin/1 Introduction to Kotlin for Android.md",
     "docusaurus",
     "Unconfirmed 248695.crdownload",
-    "Haskell/1. Pierwszy projekt Hello World.md",
-    "Haskell/_ 0 Haskell GPT.md",
     "algorytmy/algorytmy.ilustrowany przewodnik/4.  Szybkie sortowanie.md",
-    "Haskell",
     "Untitled 1.md",
     "algorytmy/algorytmy.ilustrowany przewodnik/3. Rekurencja.md",
     "algorytmy/algorytmy.ilustrowany przewodnik/2. Sortowanie przez wybieranie.md",
     "algorytmy/algorytmy.ilustrowany przewodnik/1 wprowadzenie.md",
     "algorytmy/algorytmy.ilustrowany przewodnik/_ 0 start.md",
     "_DataBase/MongoDB/MongoDB - The Complete 2025/2 Basic and CRUD.md",
-    "algorytmy/algorytmy.ilustrowany przewodnik",
-    "algorytmy",
     "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md",
-    "_DataBase/MongoDB/MongoDB - The Complete 2025/_ MongoDB Complete.md",
-    "_DataBase/MongoDB/Master MongoDB/2 - GUI Tools for MongoDB Management.md",
-    "_DataBase/MongoDB/Master MongoDB/1 - Into MongoDB Cloud.md",
-    "_DataBase/MongoDB/Master MongoDB/_ 0 Start.md",
-    "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md",
-    "_DataBase/MongoDB/Introduction to the MongoDB/4 - Data Formats in MongoDb.md",
-    "_DataBase/MongoDB/Introduction to the MongoDB/_ Intro to MongoDB.md",
-    "Samba.md",
-    "_MOBILE/the complete Android Kotlin/14 SharedPreferences Class.md",
-    "_MOBILE/the complete Android 14 and Kotlin/Android 12 XML/26 Drawing APP.md",
-    "_MOBILE/the complete Android 14 and Kotlin/Android 12 XML/20 Getting ready with Android Studio.md",
-    "_MOBILE/the complete Android 14 and Kotlin/Android 12 XML/21 Kotlin fundamentals.md",
     "Pasted image 20250128100732.png",
-    "Kotlin/Scalable ANdroid Applications in Kotlin",
     "Pasted image 20250126183649.png",
     "Pasted image 20250126182200.png",
     "Pasted image 20250126180626.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "Untitled 2.canvas",
-    "RUST/Programowanie w języku Rust",
-    "RUST",
-    "_MOBILE/the complete Android Kotlin/13 Intent and Life Cycle",
-    "_MOBILE/the complete Android Kotlin/12 Lists and Views"
+    "Untitled 2.canvas"
   ]
 }
