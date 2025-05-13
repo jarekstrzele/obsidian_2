@@ -60,8 +60,6 @@ enum Color{
 fn main(){
   let go = Color::Yellow ;
   print_color(go) ;
-  
- 
 }
 
 fn print_color(my_color: Color){

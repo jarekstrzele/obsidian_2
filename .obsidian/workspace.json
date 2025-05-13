@@ -13,29 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/1.Sztuczna inteligencja i uczenie maszynowe dla programistów/I tworzenie modeli/1. Wprowadzenie do biblioteki TensorFlow.md",
+                "file": "RUST/Rust lang - The complete beginner's guide/3 Language basics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Wprowadzenie do biblioteki TensorFlow"
+              "title": "3 Language basics"
             }
           },
           {
-            "id": "1db90f34970d558d",
+            "id": "a7ad2b29c2fc28de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Haskell/1. Pierwszy projekt Hello World.md",
+                "file": "RUST/_0_Lern_to_Code_With_Rust/_0 spis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Pierwszy projekt Hello World"
+              "title": "_0 spis"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411.5
+    "width": 441.5
   },
   "right": {
     "id": "1ef13512cc3c7b15",
@@ -154,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Samba.md",
-                "followCursor": false,
+                "file": "RUST/_0_Lern_to_Code_With_Rust/_0 spis.md",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Samba"
+              "title": "Outline of _0 spis"
             }
           },
           {
@@ -169,17 +170,16 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 643.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,47 +192,48 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3882cc75b2e2bf83",
+  "active": "a7ad2b29c2fc28de",
   "lastOpenFiles": [
-    "TenserFlow.png",
-    "AI/1.Sztuczna inteligencja i uczenie maszynowe dla programistów/I tworzenie modeli/1. Wprowadzenie do biblioteki TensorFlow.md",
-    "_MOBILE/the complete Android Kotlin/14 SharedPreferences Class.md",
-    "Haskell/1. Pierwszy projekt Hello World.md",
-    "docusaurus/README-github-project-page-docusaurus.md",
-    "Ubuntu.md",
+    "RUST/_0_Lern_to_Code_With_Rust/1 Start.md",
+    "RUST/_0_Lern_to_Code_With_Rust/3. Data Types.md",
+    "RUST/_0_Lern_to_Code_With_Rust/2. Variables and Mutability.md",
+    "RUST/_0_Lern_to_Code_With_Rust/_0 spis.md",
     "gromadzenie_i_etykietowanie_danych.png",
+    "RUST/_0_Lern_to_Code_With_Rust",
+    "RUST/Tech Stack in Rust.md",
+    "RUST/Rust Tutorial Full Course.md",
+    "RUST/Result.md",
+    "RUST/Box.md",
+    "RUST/atrybut.md",
+    "RUST/Ultimate Rust Crash Course/Ultimate Rust Crush 1/_ Ultimate Rust Crash Course 1.md",
+    "RUST/ULTIMATE Rust Lang Tutorial/_ LetsGetRusty Ultimate Rust Lang Tutorial.md",
+    "RUST/Rust Programming For Beginners/_ Rust Programming for Beginners.md",
+    "RUST/Tech with TIm Rust/_ Rust Tech with Tim.md",
+    "RUST/Rust Programming Tutorial/_ Rust Programming Tutorial.md",
+    "RUST/Rust Programming Course/_ 0 Rust From Beginner to Expert 2.0.md",
+    "RUST/Programowanie w języku Rust/_ spis.md",
+    "RUST/Rust 101 Crash Course/_ Rust 101 Crash Course.md",
+    "RUST/Rust - FreeCode Beginner/_ 0 Rust.md",
+    "RUST/Programmowanie_w Rust/_ Programowanie w języku Rust.md",
+    "RUST/Rust Programming For Beginners/9.4 Traits Rust.md",
+    "RUST/Rust Programming For Beginners/9.3 Range Rust.md",
+    "RUST/Rust Programming For Beginners/9.2 Iterators - Rust.md",
+    "RUST/Rust Programming For Beginners/9.1 Option Combinators.md",
+    "RUST/Rust Programming For Beginners/9 Refining Your Code.md",
+    "RUST/Rust lang - The complete beginner's guide/3 Language basics.md",
+    "Haskell/1. Pierwszy projekt Hello World.md",
+    "RUST/ULTIMATE Rust Lang Tutorial",
+    "RUST/Ultimate Rust Crash Course/Ultimate Rust Crush 2",
+    "RUST/Ultimate Rust Crash Course/Ultimate Rust Crush 1",
+    "RUST/Ultimate Rust Crash Course",
+    "RUST/Tech with TIm Rust",
+    "RUST/Rust Programming Tutorial",
+    "RUST/Rust Programming For Beginners",
+    "RUST/Rust Programming Course",
+    "RUST/Rust lang - The complete beginner's guide",
+    "TenserFlow.png",
     "Uczenie_maszynowe.png",
-    "AI/kolejność uczenia się ML.md",
-    "Programowanie_tradycyjne.md",
     "Programowanie_tradycyjne.png",
-    "AI/1.Sztuczna inteligencja i uczenie maszynowe dla programistów/_ 0 Intro.md",
-    "AI/1.Sztuczna inteligencja i uczenie maszynowe dla programistów/II używanie modeli",
-    "AI/1.Sztuczna inteligencja i uczenie maszynowe dla programistów/I tworzenie modeli",
-    "Moduły.md",
-    "AI/z o4-mini-high",
-    "AI/3. Python.Uczenie maszynowe w przykładach",
-    "AI/2. Ucznie maszynowe z użyciem",
-    "AI/1.Sztuczna inteligencja i uczenie maszynowe dla programistów",
-    "AI/Wnioskowanie - związki przyczynowe w Pythonie",
-    "AI",
-    "docusaurus/README-github-org-page-docusaurus.md",
-    "docusaurus/Docusaurus + GIthub.md",
-    "Samba.md",
-    "Linux Mint.md",
-    "Haskell/_ 0 Haskell GPT.md",
-    "Kotlin/Fundamenty Kotlina.md",
-    "Kotlin/Scalable ANdroid Applications in Kotlin/2 Breaking Down App Code with Separation of Concerns.md",
-    "Kotlin/Scalable ANdroid Applications in Kotlin/1 Introduction to Kotlin for Android.md",
-    "docusaurus",
-    "Unconfirmed 248695.crdownload",
-    "algorytmy/algorytmy.ilustrowany przewodnik/4.  Szybkie sortowanie.md",
-    "Untitled 1.md",
-    "algorytmy/algorytmy.ilustrowany przewodnik/3. Rekurencja.md",
-    "algorytmy/algorytmy.ilustrowany przewodnik/2. Sortowanie przez wybieranie.md",
-    "algorytmy/algorytmy.ilustrowany przewodnik/1 wprowadzenie.md",
-    "algorytmy/algorytmy.ilustrowany przewodnik/_ 0 start.md",
-    "_DataBase/MongoDB/MongoDB - The Complete 2025/2 Basic and CRUD.md",
-    "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md",
     "Pasted image 20250128100732.png",
     "Pasted image 20250126183649.png",
     "Pasted image 20250126182200.png",

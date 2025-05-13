@@ -9,7 +9,7 @@
 #rust/vector 
 
 >[!info] Vector
->- multiple pieces od data (must be the same type)
+>- multiple pieces of data (must be the same type)
 >- used for lists of information
 >- can add, remove, and traverse the entires
 
@@ -172,7 +172,7 @@ fn main(){
 
 
 ```rust
-uct Person {
+struct Person {
   name: String,
   age: i32, 
   color: String,

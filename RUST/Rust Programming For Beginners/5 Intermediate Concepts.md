@@ -67,7 +67,7 @@ fn main(){
 #rust/memory 
 *Memory uses addresses  & offsets.
 Addresses are permanent, data differs
-Offsets can be ised to "index" into some data*
+Offsets can be used to "index" into some data*
 
 >[!info] Memory
 > - memory is stored using binary (bits: 0 or 1)

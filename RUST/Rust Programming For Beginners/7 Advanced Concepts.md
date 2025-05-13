@@ -59,10 +59,13 @@ fn main() {
 
 
 #rust/traits 
+>[!warning]
 >In Rust, `Clone` and `Copy` are traits used for creating copies of values, but they have different purposes and behaviors.
 
+>[!info] `Copy`
 > The `Copy` trait is used for types that are trivially copyable, meaning that when a value of that type is assigned to another variable or passed to a function, a bit-for-bit copy of the value is made. This means that the original value is not affected by changes made to the copied value, and the two values can be used independently. Types that implement `Copy` include `bool`, `char`, numeric types (`i32`, `f64`, etc.), and tuples containing types that implement `Copy`.
 
+>[!tip] `Clone`
 > On the other hand, the `Clone` trait is used for types that need a deep copy, meaning that a new object with the same data is created. This is typically used for types that own heap-allocated memory, such as `String` and `Vec<T>`. When a value of a type that implements `Clone` is assigned to another variable or passed to a function, a new copy of the value is created, and changes made to the copied value do not affect the original value.
 
 > It's worth noting that not all types can implement both traits - some types cannot be trivially copied, and some cannot be cloned due to ownership and borrowing rules. It's also worth noting that `Copy` and `Clone` are both marker traits, meaning that they don't define any methods themselves, but rather signal to the compiler how the type should be treated.
